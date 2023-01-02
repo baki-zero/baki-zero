@@ -38,7 +38,13 @@
 </div>
 <br>
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baki-zero&layout=compact&theme=tokyonight)
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baki-zero)](https://solved.ac/baki-zero/)
 
 <!--![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baki-zero) >
 
