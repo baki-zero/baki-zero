@@ -8,7 +8,10 @@
   
 </div> 
 
+<br>
 <!-- 여기다가 이제 SNS 링크 같은거 걸어놓기 -->
+###Tistory 링크
+https://mimingmangmyong.tistory.com/
 
 <hr>
 <br>
